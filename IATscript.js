@@ -1,7 +1,7 @@
 define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/IAT/qualtrics/quiat9.js'], function(APIConstructor, iatExtension){
     var API = new APIConstructor();
 
-	return iatExtension({
+return iatExtension({
 		category1 : {
 			name : 'Minorities', //Will appear in the data.
 			title : {
@@ -10,12 +10,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/IAT/qualt
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    {image : 'Minorities1.png'}, 
-    			{image : 'Minorities2.jpg'}, 
-    			{image : 'Minorities3.jpg'}, 
-    			{image : 'Minorities4.jpg'}, 
-    			{image : 'Minorities5.jpg'}, 
-    			{image : 'Minorities6.jpg'}
+    		    {image : 'Minorities1.png'}
 			], 
 			//Stimulus css (style)
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
@@ -28,12 +23,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/IAT/qualt
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    {image : 'Chinese1.png'}, 
-    			{image : 'Chinese2.jpg'}, 
-    			{image : 'Chinese3.jpg'}, 
-    			{image : 'Chinese4.jpg'}, 
-    			{image : 'Chinese5.jpg'}, 
-    			{image : 'Chinese6.jpg'}			], 
+    		    {image : 'Chinese1.png'}			], 
 			//Stimulus css
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
 		},	
