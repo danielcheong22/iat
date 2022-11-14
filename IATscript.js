@@ -1,4 +1,4 @@
-define(['pipAPI', 'https://https://github.com/danielcheong22/iat/IATscript.js'], function(APIConstructor, iatExtension){
+define(['pipAPI', 'https://danielcheong22.github.io/iat/IATscript.js'], function(APIConstructor, iatExtension){
     var API = new APIConstructor();
 
 	return iatExtension({
