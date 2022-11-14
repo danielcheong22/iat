@@ -10,7 +10,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/IAT/qualt
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    {image : 'Minorities1.jpg'}, 
+    		    {image : 'Minorities1.png'}, 
     			{image : 'Minorities2.jpg'}, 
     			{image : 'Minorities3.jpg'}, 
     			{image : 'Minorities4.jpg'}, 
@@ -28,7 +28,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/IAT/qualt
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    {image : 'Chinese1.jpg'}, 
+    		    {image : 'Chinese1.png'}, 
     			{image : 'Chinese2.jpg'}, 
     			{image : 'Chinese3.jpg'}, 
     			{image : 'Chinese4.jpg'}, 
