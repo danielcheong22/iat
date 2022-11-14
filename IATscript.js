@@ -13,9 +13,9 @@ return iatExtension({
     		    {image : 'Minorities1.png'},
 			{image : 'Minorities2.png'},
 			{image : 'Minorities3.jpg'}, 
-		    	{image : 'Minorities4.jpg'}, 
-    			{image : 'Minorities5.jpg'}, 
-    			{image : 'Minorities6.jpg'}
+		    	{image : 'Minorities4.png'}, 
+    			{image : 'Minorities5.png'}, 
+    			{image : 'Minorities6.png'}
 			], 
 			//Stimulus css (style)
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
@@ -30,10 +30,10 @@ return iatExtension({
 			stimulusMedia : [ //Stimuli content as PIP's media objects
     		    {image : 'Chinese1.png'},
 			{image : 'Chinese2.png'},
-			{image : 'Chinese3.png'},
-			{image : 'Chinese4.png'},
+			{image : 'Chinese3.jpg'},
+			{image : 'Chinese4.jpg'},
 		    	{image : 'Chinese5.png'},
-       			{image : 'Chinese6.png'}
+       			{image : 'Chinese6.jpg'}
 			], 
 			//Stimulus css
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
