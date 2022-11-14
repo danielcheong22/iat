@@ -10,12 +10,12 @@ return iatExtension({
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    {image : 'Minorities1.png'},
-			{image : 'Minorities2.png'},
+    		    {image : 'Minorities1.jpg'},
+			{image : 'Minorities2.jpg'},
 			{image : 'Minorities3.jpg'}, 
-		    	{image : 'Minorities4.png'}, 
-    			{image : 'Minorities5.png'}, 
-    			{image : 'Minorities6.png'}
+		    	{image : 'Minorities4.jpg'}, 
+    			{image : 'Minorities5.jpg'}, 
+    			{image : 'Minorities6.jpg'}
 			], 
 			//Stimulus css (style)
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
@@ -28,11 +28,11 @@ return iatExtension({
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    {image : 'Chinese1.png'},
-			{image : 'Chinese2.png'},
+    		    {image : 'Chinese1.jpg'},
+			{image : 'Chinese2.jpg'},
 			{image : 'Chinese3.jpg'},
 			{image : 'Chinese4.jpg'},
-		    	{image : 'Chinese5.png'},
+		    	{image : 'Chinese5.jpg'},
        			{image : 'Chinese6.jpg'}
 			], 
 			//Stimulus css
