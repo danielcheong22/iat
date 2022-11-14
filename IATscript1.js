@@ -1,4 +1,4 @@
-define(['pipAPI', 'https://github.com/danielcheong22/iat/blob/9a62236cc43174e3a760f2534c3966e6c2d70f65/IATscript1.js'], function(APIConstructor, iatExtension){
+define(['pipAPI', 'https://github.com/danielcheong22/iat/IATscript1.js'], function(APIConstructor, iatExtension){
     var API = new APIConstructor();
 
 //Randomly choose the attribute words from a larger list of attribute words.
