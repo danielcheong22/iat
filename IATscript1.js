@@ -1,6 +1,6 @@
-define(['pipAPI', 'https://github.com/danielcheong22/iat/IATscript1.js'], function(APIConstructor, iatExtension){
-    var API = new APIConstructor();
-
+define(['pipAPI','https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/IAT/qualtrics/quiat9.js'], function(APIConstructor, iatExtension){
+	var API = new APIConstructor();
+	
 //Randomly choose the attribute words from a larger list of attribute words.
   //Internal studies in Project Implicit found no difference in performance between the words.
   var posWords = API.shuffle([
