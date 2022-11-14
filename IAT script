@@ -39,7 +39,7 @@ define(['pipAPI', ' https://danielcheong22.github.io/IAT/IAT script.js'], functi
 		},	
 
 		base_url : {//Where are your images at?
-			image : 'https://baranan.github.io/minno-tasks/images/'
+			image : 'https://danielcheong22.github.io/IAT/'
 		} 
 	});
 });
