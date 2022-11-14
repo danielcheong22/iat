@@ -10,7 +10,7 @@ return iatExtension({
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    {image : 'https://raw.githubusercontent.com/danielcheong22/iat/59913e6ef49fc7f6e1b6a105151d03369fd260a4/images/Minorities1.png'},
+    		    {image : 'Minorities1.png'},
 			{image : 'Minorities2.png'},
 			{image : 'Minorities3.jpg'}, 
 		    	{image : 'Minorities4.png'}, 
